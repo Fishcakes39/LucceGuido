@@ -1,0 +1,13 @@
+name = "EpicFight：Improve"
+filename = "[20.12]EpicFight_Improve1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f7d8574819d113135557c2507baf38a7b147a85"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6874499
+project-id = 1325125

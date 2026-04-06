@@ -1,0 +1,13 @@
+name = "Simply Swords: Cataclysm"
+filename = "simplycataclysm-1.0.1+1.20.1+forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe3be78218c4fe629b8b372e78c71e2c5ca624b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7337487
+project-id = 1382969

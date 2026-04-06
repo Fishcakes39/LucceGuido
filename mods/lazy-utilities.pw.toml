@@ -1,0 +1,13 @@
+name = "Lazy Utilities [Deprecated]"
+filename = "lazy_utilities-2.9.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e11081f8a9e7043d4d91b7080046f1f3b510112"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7748493
+project-id = 1196825

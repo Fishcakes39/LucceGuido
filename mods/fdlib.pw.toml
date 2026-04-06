@@ -1,0 +1,13 @@
+name = "FDLib"
+filename = "fdlib-1.0.8-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d858549294aba85e06cd7f64867d435ee288e9a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7653103
+project-id = 1271749
