@@ -1,0 +1,13 @@
+name = "Create Train Utilities"
+filename = "trainutilities-forge-3.0.3-C6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f19d8930618014c376d6e7f995b63de0663a4b20"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7779636
+project-id = 1028420

@@ -1,0 +1,13 @@
+name = "Epic Fight - EDP (Extended Datapacks)"
+filename = "epicfight_extended_datapacks-1.9.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "460a9ef1d28b81079968f0107be4e3c597e68c06"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7754629
+project-id = 1309609

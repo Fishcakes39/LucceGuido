@@ -1,0 +1,13 @@
+name = "Merlin's Epic Boss - Cataclysm"
+filename = "meb_cataclysm-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67746525f0e6bb4b70c9e70b76d8c28b7696fb3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7412082
+project-id = 1410944
