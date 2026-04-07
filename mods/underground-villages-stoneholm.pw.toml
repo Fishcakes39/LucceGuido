@@ -3,8 +3,8 @@ filename = "underground_village-1.5.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7efc15e5268873616eb2a6309a6da12f50309d2c"
+hash-format = "sha256"
+hash = "5b31376676326e327dfd5cf08b45a93c0358f6996c12718c377a0fd17263fdbf"
 mode = "metadata:curseforge"
 
 [update]

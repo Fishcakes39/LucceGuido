@@ -3,8 +3,8 @@ filename = "createoreexcavation-1.20-1.6.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ef135e6124a7c8bb04a6cf8ef3d3680de4f44425"
+hash-format = "sha256"
+hash = "fcd8f81ad8e8e56cdd0fe5bc75cd946003fa3edc188a8c23ec36979d2722b27b"
 mode = "metadata:curseforge"
 
 [update]

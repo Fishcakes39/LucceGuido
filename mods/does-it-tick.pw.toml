@@ -3,8 +3,8 @@ filename = "does_it_tick-forge-1.1.4-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3149313d2d5d101ac70be5ddc7ddb2afcf54c3c0"
+hash-format = "sha256"
+hash = "15463bc1bbb6b40b4762837f64788a0a7dadad5ebe2f9bd00574b8170537a90e"
 mode = "metadata:curseforge"
 
 [update]

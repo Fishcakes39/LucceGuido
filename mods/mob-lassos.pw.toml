@@ -3,8 +3,8 @@ filename = "MobLassos-v8.0.1-1.20.1-Forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0586f2cdfe31d98824e4acf1556f9e070b5453da"
+hash-format = "sha256"
+hash = "c94ce226c2bab2ece2e53a2c4f2bef0868deca29ac8a86e64b291b4fdc12eebf"
 mode = "metadata:curseforge"
 
 [update]

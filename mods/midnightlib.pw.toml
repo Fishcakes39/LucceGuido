@@ -3,8 +3,8 @@ filename = "midnightlib-forge-1.9.2+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ff01aa718b71249012c41d9926d3fd2982809fdb"
+hash-format = "sha256"
+hash = "19af8e16930380e0669cb457a7f591c9ecac131cf3d879cc77f0fd7afe41b849"
 mode = "metadata:curseforge"
 
 [update]

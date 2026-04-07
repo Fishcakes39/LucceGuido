@@ -3,8 +3,8 @@ filename = "farmers-cutting-biomes-o-plenty-1.1.0-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "68a9cb87b8eaf5d11545ebc7379c38ca3c57c491"
+hash-format = "sha256"
+hash = "5d380eb14fbb05f8619ab2e100264976ccbaa71a05a8414bc56db432b2002a45"
 mode = "metadata:curseforge"
 
 [update]

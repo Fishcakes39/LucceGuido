@@ -3,8 +3,8 @@ filename = "chunkactivitytracker-forge-1.0.1-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d4c739c5125ece93b82ad27a8e0fd74f670cc7b3"
+hash-format = "sha256"
+hash = "e681353e3eb7614bfeea83a0ac474bdd80cb0be39394719fa43c668f7c81ef35"
 mode = "metadata:curseforge"
 
 [update]

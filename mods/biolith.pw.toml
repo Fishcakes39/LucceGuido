@@ -3,8 +3,8 @@ filename = "biolith-forge-1.0.1-alpha.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c2ff2fcd507a9c722fd627de9223bf922c85e02a"
+hash-format = "sha256"
+hash = "ed926abedfa2f8985ed17b2b4760d336bcd4565ce8c946dad5f03aa7cbbbce3f"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "aaa_particles-1.20.1-1.4.11-forge.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "e046caeff220722933cb82097a62412d902f6002"
+hash-format = "sha256"
+hash = "687ed116f862b8914a3a80d55ac354ca387bf24f16f15faf3329fab25655c8cf"
 mode = "metadata:curseforge"
 
 [update]

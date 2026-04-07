@@ -3,8 +3,8 @@ filename = "molten_vents-1.20.1-2.0.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e8940356f4f8f4ad451acd2de361536c1eaed93c"
+hash-format = "sha256"
+hash = "80d953c272ed76d1cfab42d905bf33152d0682e0e4eed7f6fe80773cdaad6eb0"
 mode = "metadata:curseforge"
 
 [update]

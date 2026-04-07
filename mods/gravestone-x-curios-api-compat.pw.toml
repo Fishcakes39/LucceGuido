@@ -3,8 +3,8 @@ filename = "gravestonecurioscompat-1.20.x-Forge-3.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a563c0daf8ec490eb56426fc0f440adc31e628d8"
+hash-format = "sha256"
+hash = "8a31efb5ae9a899c6dffd97e5988a9b93c6171aa79ff17d6a558665750eca2ca"
 mode = "metadata:curseforge"
 
 [update]

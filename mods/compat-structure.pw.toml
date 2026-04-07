@@ -3,8 +3,8 @@ filename = "compatstructures-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "abfd0c329e150e2c324fd8f55da99dfe33194c8f"
+hash-format = "sha256"
+hash = "496f83a6ce96b0565b8924214869b1bb028e0d601af2a6ec4a3287b8afd1d22b"
 mode = "metadata:curseforge"
 
 [update]

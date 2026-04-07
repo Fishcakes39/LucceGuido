@@ -3,8 +3,8 @@ filename = "mcmouser-1.20-forge-1.0.1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "fc3a23e52e9450a1e50ac032ab2f41ad75e468f4"
+hash-format = "sha256"
+hash = "4a37ced5c2ac8f04af75acfe309cbc3127d9d36f5d11f24ea49f0ddb0b355edc"
 mode = "metadata:curseforge"
 
 [update]

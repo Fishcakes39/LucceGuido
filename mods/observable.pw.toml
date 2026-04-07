@@ -3,8 +3,8 @@ filename = "observable-4.4.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c8a0ae25512d0cedef478df411c87e43703ae237"
+hash-format = "sha256"
+hash = "009958985786081dad4007f8b4a5899b7aa82951b194d81ec48076d68950a4e8"
 mode = "metadata:curseforge"
 
 [update]

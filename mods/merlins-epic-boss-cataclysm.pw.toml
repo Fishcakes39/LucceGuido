@@ -3,8 +3,8 @@ filename = "meb_cataclysm-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "67746525f0e6bb4b70c9e70b76d8c28b7696fb3c"
+hash-format = "sha256"
+hash = "4f2d414712f9ac58c9b475bae1e05c701f6529726483b95cab309358a4cee323"
 mode = "metadata:curseforge"
 
 [update]

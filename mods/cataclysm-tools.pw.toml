@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7apv0bAM/versions/D6Nu8LcF/cataclysm_tools-2.0.0-forge-1.20.1.jar"
-hash-format = "sha512"
-hash = "69a15b785b7d506e1dd34b3f12fc725f950cbe7357901d434370154b938fa7d2def25cc7444419aac496c13b261de2185ffec134a60d7e757e90337613c9f98d"
+hash-format = "sha256"
+hash = "521239e330050ba785261953a13e009c68180c846902bf3b439f6cf0208be1a7"
 
 [update]
 [update.modrinth]

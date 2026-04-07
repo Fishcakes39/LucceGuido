@@ -3,8 +3,8 @@ filename = "c3me-forge-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fa56d635562eeb25b4b9c310c3f9572075530f4d"
+hash-format = "sha256"
+hash = "99dbce6aa6827a777d78a898cd6b8d7c7d9ae1d1fd41b813750eefaead8c9c8d"
 mode = "metadata:curseforge"
 
 [update]

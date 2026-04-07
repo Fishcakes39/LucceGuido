@@ -3,8 +3,8 @@ filename = "fzzy_config-0.7.6+1.20.1+forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2e9ca1c5f028c251e1bc18b9ebaa06d401c8e624"
+hash-format = "sha256"
+hash = "d39cd5d6b23b86468937e306776dc70faba900072c7e359ce9348d8a3c26982e"
 mode = "metadata:curseforge"
 
 [update]

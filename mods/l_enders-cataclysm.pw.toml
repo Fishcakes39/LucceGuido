@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/46KJle7n/versions/iEhAqVUZ/L_Enders_Cataclysm-3.26-enchant-fix.jar"
-hash-format = "sha512"
-hash = "1dd62a3cf8437f3ce83bf370f592fdbb7cc79ec2aa875ae20828086b85c6e34d807da3104c4eb650757e3a6a5ec9eb250989fe07275db9d50d5357f57f04c588"
+hash-format = "sha256"
+hash = "a97d80cab1a379d698deca080cb9f16ca39565f12a1ebb28ae6295f48b9adf74"
 
 [update]
 [update.modrinth]

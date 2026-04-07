@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kme4edJZ/versions/RlAtuwqI/iceandfire_curios-1.3.0-forge-1.20.1.jar"
-hash-format = "sha512"
-hash = "52ccf52d0475b0b4cbcaece10abc862e5115970af67f8d22169a2e3c2709fb7ff2d1cbd5a72140e2d7f25c75518e071e44d32e6ee90791609cdd48fd3f6e52a8"
+hash-format = "sha256"
+hash = "ee5b4753e9e6704a7e30d97f9029dda686a9cfcdb6470c0079128a0738f3cf19"
 
 [update]
 [update.modrinth]

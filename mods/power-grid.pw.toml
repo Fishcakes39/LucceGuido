@@ -3,8 +3,8 @@ filename = "powergrid-mc1.20.1-0.5.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ebdbcd3e267c8a92e6685728f9d7fdd3e7b9838a"
+hash-format = "sha256"
+hash = "390f8d34b8bdf4c55ed198f51e03a37ceb74e717cfdebdff315c450187f74b3a"
 mode = "metadata:curseforge"
 
 [update]

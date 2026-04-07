@@ -3,8 +3,8 @@ filename = "neruina-3.2.2+1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8155b7b81f829d33a4ccdcaa2158b3b64846c396"
+hash-format = "sha256"
+hash = "0c01cd83802f0b60b0843fe9283be5d6658343ae2e854b4d2da2c12b2dfa4451"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "FarmersDelight-1.20.1-1.2.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "76311d0d9f9064487fed060a793263744effacde"
+hash-format = "sha256"
+hash = "9a2db05541f07e15a81d514f4f47627f1c738d0464c1885765aa460117909318"
 mode = "metadata:curseforge"
 
 [update]

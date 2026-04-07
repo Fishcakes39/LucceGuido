@@ -3,8 +3,8 @@ filename = "weaponleveling-1.20.1-2.2.2-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1339ba33238241f4122e22853ee18d8bcfcd151d"
+hash-format = "sha256"
+hash = "0fa65571de7bb6478e63275dceb9ddcb1714f4bbd9b13f9904ab7c6c2764c384"
 mode = "metadata:curseforge"
 
 [update]

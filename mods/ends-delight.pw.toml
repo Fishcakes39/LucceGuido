@@ -3,8 +3,8 @@ filename = "ends_delight-2.5.1+forge.1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "535c442625be4bd26ee637cdf7055c30b79a0b65"
+hash-format = "sha256"
+hash = "19544813f67c1efbe315158bdf79a89fc2070320cae2a922b6a2ec68c1c2bda7"
 mode = "metadata:curseforge"
 
 [update]

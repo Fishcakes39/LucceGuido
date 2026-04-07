@@ -3,8 +3,8 @@ filename = "mobs_blocker-1.2.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ec6962be5426652b478ce7194c2337477c176534"
+hash-format = "sha256"
+hash = "d307a4ba01e60f946db9be0351fac99443b806c1c0024bbade8c81216ca845dd"
 mode = "metadata:curseforge"
 
 [update]

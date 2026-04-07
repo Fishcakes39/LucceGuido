@@ -3,8 +3,8 @@ filename = "Stronger Skill Tree.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4a2a8e2461eaac84862ee769f0fcc3897b2cb49d"
+hash-format = "sha256"
+hash = "1685b1b88264a33f6ff6f61331833ba967b99b274bb230866273ce403c1775c0"
 mode = "metadata:curseforge"
 
 [update]

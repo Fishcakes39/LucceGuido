@@ -3,8 +3,8 @@ filename = "uranus-2.2.6-bugfix.2-1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e412a3c61e2ce9c93437adacab291d45d532870e"
+hash-format = "sha256"
+hash = "00a868ea93363a3dbc2b5bdc3843692504294d16e94c014b563dafae7e68369f"
 mode = "metadata:curseforge"
 
 [update]

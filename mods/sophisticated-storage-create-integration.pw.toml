@@ -5,8 +5,8 @@ pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/MJ0hdevs/versions/nQE6RPbM/sophisticatedstoragecreateintegration-1.20.1-0.1.16.97.jar"
-hash-format = "sha512"
-hash = "1e6a49b9040fa689bb73a32f45bc5afb64592980ab23722e1a76cf993119c4710a6d5dc2b97b847574379a591a64dce4016c374799da7c79e07ca978f7b5219b"
+hash-format = "sha256"
+hash = "3290f90e0777585ba904e9fc41858507ded62b1d9933c2d4741bba07ff1a0b19"
 
 [update]
 [update.modrinth]

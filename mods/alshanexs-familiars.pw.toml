@@ -3,8 +3,8 @@ filename = "alshanex_familiars-1.21.1_v3.8.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "15b1dc84248e7bc1b8bb00b690d586bfc0eaa5a6"
+hash-format = "sha256"
+hash = "9554455c75558277069a8dde57f3035f174bd4ddb4c9edf1ecc82382b8e65f8b"
 mode = "metadata:curseforge"
 
 [update]

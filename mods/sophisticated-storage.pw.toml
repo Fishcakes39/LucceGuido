@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hMlaZH8f/versions/ZvrbY7iP/sophisticatedstorage-1.20.1-1.4.34.1598.jar"
-hash-format = "sha512"
-hash = "a25eb8c386f4548d5f0dffd9fc0abc9664eb6c15d0d9a074c60b0767b4224e4edcc496b9c4323e1b891a469ad361103db2dc2504f10f312da0a3850fd595d968"
+hash-format = "sha256"
+hash = "b72a78a83f6b2f3519e4ae1aafcb52e15d8ffcf0e4dbc4c63849b3a7af5c213e"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "elytraslot-forge-6.4.4+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f11443ef3371fa790eb33cba1a517638a3afcb07"
+hash-format = "sha256"
+hash = "f96c26e7ac9e2dade0aa04f71b9f8708a2b7af92b9cc691103ae32c62764e6ab"
 mode = "metadata:curseforge"
 
 [update]

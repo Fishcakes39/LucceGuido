@@ -3,8 +3,8 @@ filename = "create_cataclysm-0.1.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1694075f526cc0b369762860405ad67297068888"
+hash-format = "sha256"
+hash = "f917089acf16097cdaddb655e4fbca8e88242c08fff079452be65f00ac0312ec"
 mode = "metadata:curseforge"
 
 [update]

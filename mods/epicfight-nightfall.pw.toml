@@ -3,8 +3,8 @@ filename = "EpicFight Nightfall-3.2.4-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0352b343147d78e6574efcb6b29546632ad54574"
+hash-format = "sha256"
+hash = "4defb32490e68e536d6697d3f99764aed309c4a77e5857cc59c0a78165724990"
 mode = "metadata:curseforge"
 
 [update]

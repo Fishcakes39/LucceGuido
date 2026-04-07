@@ -3,8 +3,8 @@ filename = "irons_spells_dynamic_skilltree_1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "de961262e4328fea6861f6ba94323037df2d44ab"
+hash-format = "sha256"
+hash = "07ecb47f5a374879f72239dec136ee8f7c08366384507d32aedb6419afe1e07e"
 mode = "metadata:curseforge"
 
 [update]

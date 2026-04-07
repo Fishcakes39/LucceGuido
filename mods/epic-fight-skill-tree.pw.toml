@@ -3,8 +3,8 @@ filename = "epicfight-skilltree-forge-20.2.6-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f6674ac06690cdbcf018d16c24ef4764ca5edbbc"
+hash-format = "sha256"
+hash = "58d38bb8cf408ecd012c65b76ac8c68881d8f66d05941de8b7d2e0abe7996a73"
 mode = "metadata:curseforge"
 
 [update]

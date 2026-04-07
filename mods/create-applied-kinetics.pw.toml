@@ -3,8 +3,8 @@ filename = "createappliedkinetics-1.5.1-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "339f229406b2d946f4ad92f67b59735ad8668a92"
+hash-format = "sha256"
+hash = "5f34d1172fba9671c820d5bb43763c235b2c6b7150085a20109e7280e8511083"
 mode = "metadata:curseforge"
 
 [update]

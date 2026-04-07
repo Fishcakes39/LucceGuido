@@ -3,8 +3,8 @@ filename = "epic-fight-20.14.10-mc1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bfca9016fe30eb3c0c4fd3107dcb3f0749804382"
+hash-format = "sha256"
+hash = "21f1df1c2a16cb4817c28849b4fbf7230178961e2063e672a97793544044ac7a"
 mode = "metadata:curseforge"
 
 [update]

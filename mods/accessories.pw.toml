@@ -3,8 +3,8 @@ filename = "accessories-neoforge-1.0.0-beta.48+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "22d8aed468ce41b78389b801cec1cd33faa5edb5"
+hash-format = "sha256"
+hash = "1da10e840cbbf08338a1690c3045d21a6b7c46681fa69ef3054698c97cb98e0d"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "gravestone-forge-1.20.1-1.0.35.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a5592ab84eae317907e5003f590cc4a8ba9cbe49"
+hash-format = "sha256"
+hash = "3d31bd224bc1f9055c502cf675416ae8046dbc15bf2db6627e26a032da437e85"
 mode = "metadata:curseforge"
 
 [update]

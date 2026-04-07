@@ -3,8 +3,8 @@ filename = "lazy_utilities-2.9.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6e11081f8a9e7043d4d91b7080046f1f3b510112"
+hash-format = "sha256"
+hash = "23c7c1641e6284a8fd87def1220b202e83eccf8a6d6032c84c42d1527a44281d"
 mode = "metadata:curseforge"
 
 [update]

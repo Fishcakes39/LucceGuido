@@ -3,8 +3,8 @@ filename = "create_more_additions-1.9.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "62baf3751daeb421da8f037718c6077feca19dba"
+hash-format = "sha256"
+hash = "24e39182093acc2c32fba77121ae31cbe7edc5d732705131e9c4c88c4273e06f"
 mode = "metadata:curseforge"
 
 [update]

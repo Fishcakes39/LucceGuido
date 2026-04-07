@@ -3,8 +3,8 @@ filename = "create_copper_and_zinc-2.0.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4527102235920dbfb60df817f447d86d186bfff4"
+hash-format = "sha256"
+hash = "4dcc2020e7509e00819ae08d52a0f704c62a8bd15b342647666863058d9b791b"
 mode = "metadata:curseforge"
 
 [update]

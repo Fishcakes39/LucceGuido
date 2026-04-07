@@ -3,8 +3,8 @@ filename = "Simplyswords-Epicfied-2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5172347decc9707c0b61c9f1af8464e5f866811b"
+hash-format = "sha256"
+hash = "9a15c8f5940c14d01baf3fb9aa9998111187b84c981b705336b9d900e9e53917"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "[1.20.1-Forge] Hybrid Aquatic 1.5.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "099ac8748561ad56b13b64919aebaecc0af80644"
+hash-format = "sha256"
+hash = "f03abe40adf5dfb45cb106bfc910c26dbdea4174dd1b9d000d244e520393939e"
 mode = "metadata:curseforge"
 
 [update]

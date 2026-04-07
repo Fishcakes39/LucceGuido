@@ -3,8 +3,8 @@ filename = "sodiumoptionsmodcompat-forge-1.0.0-1.20.1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "214e96498ac1c840e3eee553fc69ba721e4f9a64"
+hash-format = "sha256"
+hash = "34e4c3ef79e882cc8d92f72f71e6acc04a1ef0f50ba57784316f6b1f70708ed6"
 mode = "metadata:curseforge"
 
 [update]

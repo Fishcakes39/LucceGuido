@@ -3,8 +3,8 @@ filename = "IceAndFireCE-1.2.5-1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9b5cee137ae34fd5e7774624de190b4cb734221c"
+hash-format = "sha256"
+hash = "203a5339a6c1bc1d544a1e4ca584f7c0035a1f76028e7a6668ad87a4818314ee"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "fusion-1.2.12-forge-mc1.20.1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "ec5c8a552493297842543140fed1b0a327c217f4"
+hash-format = "sha256"
+hash = "5cb039922e08ae6b8705d50e484a8759579025fb4f48413fa62d2056505fb45e"
 mode = "metadata:curseforge"
 
 [update]

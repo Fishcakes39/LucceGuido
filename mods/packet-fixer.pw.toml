@@ -3,8 +3,8 @@ filename = "packetfixer-3.3.1-1.18-1.20.4-merged.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0bef29023c8cadb2934d78a8b0066b49d4460974"
+hash-format = "sha256"
+hash = "4f641e4e204315a55b3f5a33e3039076ba08c95b68ac9280ea0081fb27470c13"
 mode = "metadata:curseforge"
 
 [update]

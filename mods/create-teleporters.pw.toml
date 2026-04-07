@@ -3,8 +3,8 @@ filename = "createteleporters2.3-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1ccd6755dea952add65abc22e9ad5d058613ed08"
+hash-format = "sha256"
+hash = "cf65bffb0fb0e30aacf525425f3c4061cd77889f6c0fee3da226d191845bfedb"
 mode = "metadata:curseforge"
 
 [update]

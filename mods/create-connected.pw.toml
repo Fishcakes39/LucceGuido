@@ -3,8 +3,8 @@ filename = "create_connected-1.1.13-mc1.20.1-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0e1ffa4e6d3f7b379c7d30e8e59d424fd527acb4"
+hash-format = "sha256"
+hash = "d3a2625f2fb07223db7782f4e55ca1293bd2427b4d2fe4b5cdb031bdf055eed7"
 mode = "metadata:curseforge"
 
 [update]

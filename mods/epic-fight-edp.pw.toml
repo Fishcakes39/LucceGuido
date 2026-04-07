@@ -3,8 +3,8 @@ filename = "epicfight_extended_datapacks-1.9.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "460a9ef1d28b81079968f0107be4e3c597e68c06"
+hash-format = "sha256"
+hash = "9d7d130ee511ef340c59d8a0f19d77957ba74a86c179b7284a5c87f96b5a86cd"
 mode = "metadata:curseforge"
 
 [update]

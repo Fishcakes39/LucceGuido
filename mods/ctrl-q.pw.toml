@@ -3,8 +3,8 @@ filename = "ctrl-q-1.9.1-forge.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "746ae1b9a0bafe6ae30d5eb015657dfb1819e19b"
+hash-format = "sha256"
+hash = "3e87b6a82e5c9428b9a90b6f08bf4b4cf4ed99bbd526a77c446d321dda311534"
 mode = "metadata:curseforge"
 
 [update]

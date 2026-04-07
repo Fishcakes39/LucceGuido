@@ -3,8 +3,8 @@ filename = "interiors-1.20.1-forge-0.6.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3371c5ab69a1169f74bee7ab6349bc0f5d6e69bb"
+hash-format = "sha256"
+hash = "22d256df6dc6249e3421c0cffd1aa4454434fe840401171d288baa2da7dfd441"
 mode = "metadata:curseforge"
 
 [update]

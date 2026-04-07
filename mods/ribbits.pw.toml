@@ -3,8 +3,8 @@ filename = "Ribbits-1.20.1-Forge-3.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5cc73d3399248300a188164406cd801cc4ae00b3"
+hash-format = "sha256"
+hash = "e04aa665df7e96844fe8833f29cc343feefac8ad7b949399d7b4a60475123e2b"
 mode = "metadata:curseforge"
 
 [update]

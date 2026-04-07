@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9enMEvoc/versions/qKokwSO1/create_structures_arise-174.47.46%20Release-forge-1.20.1.jar"
-hash-format = "sha512"
-hash = "51b596edbbdbedc317578005345f32414ec081856e63656740ec47d53577ff0675c96757a948757ed9be152bdac93caae4660ee7719dc5e4cb1b9f0d93113ebe"
+hash-format = "sha256"
+hash = "5b1e50e48936c9d2147d917301848ada6d445be1c5ef0e0809913ecdc2949be4"
 
 [update]
 [update.modrinth]

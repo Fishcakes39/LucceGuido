@@ -3,8 +3,8 @@ filename = "createutilities-0.3.2+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "60eff24cdd0f167643e75f14062845c584245e80"
+hash-format = "sha256"
+hash = "1ce5d1376c9cf4a7525e4d02d731e16765cb874475f181404c998e5aec85ac7e"
 mode = "metadata:curseforge"
 
 [update]

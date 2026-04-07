@@ -3,8 +3,8 @@ filename = "ftb-pack-companion-20.1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3f91912670065b83cfac6a561883c8d11f2b6d95"
+hash-format = "sha256"
+hash = "c2e03c65fcfd65887996e3f4d85aad61536d7d0438b944966ab531a91a0d3b9d"
 mode = "metadata:curseforge"
 
 [update]

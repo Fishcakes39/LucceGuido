@@ -3,8 +3,8 @@ filename = "bigcontraptions-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3bebfb40c2d232ac69214126012dd28106c3a917"
+hash-format = "sha256"
+hash = "f3c39a409e44bb4107a820e7f5ddefc0c3c1e989783917fe662098983a725672"
 mode = "metadata:curseforge"
 
 [update]

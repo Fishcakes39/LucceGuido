@@ -3,8 +3,8 @@ filename = "animal_feeding_trough-1.1.0+1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a7852e319008f0712934e065f185e7f1d7227d4c"
+hash-format = "sha256"
+hash = "367fbc5cf0931b39793b89c7cfbbf4d78e41d227dfbdd6f0be6ed17e2ad7b538"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "Cucumber-1.20.1-7.0.16.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "88a9ec30e4acb5c80a3ae060ad70b79e945293c6"
+hash-format = "sha256"
+hash = "b586a3cd1de362c365f923e5c325273916822f4b3a792c0d9ff6747d7deb2be6"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "azurelib-neo-1.20.1-3.1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2c746a64752fd1197b625221c6f737b4197e03dd"
+hash-format = "sha256"
+hash = "636400e3a00444cbfb434e7aa3a25e01d1ee3118abe22c2f2e759f67592f5462"
 mode = "metadata:curseforge"
 
 [update]

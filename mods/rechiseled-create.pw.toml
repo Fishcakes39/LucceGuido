@@ -3,8 +3,8 @@ filename = "rechiseledcreate-1.1.0-forge-mc1.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b644246fe5b1e44df90c1c71687404259855e8d6"
+hash-format = "sha256"
+hash = "1006c8deb08641ca21d15ee34d8959f6cde749d523206d0af162371e65e53b25"
 mode = "metadata:curseforge"
 
 [update]

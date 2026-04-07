@@ -3,8 +3,8 @@ filename = "EpicFight x Curios Compat 2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "eb4c1df72f2e5d978e77dafd87d1682d9cb12543"
+hash-format = "sha256"
+hash = "2501613c8abecb89c28e74c9e483e7c1cae4b208489664df504ec4e2edcfa73e"
 mode = "metadata:curseforge"
 
 [update]

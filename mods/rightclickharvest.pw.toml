@@ -3,8 +3,8 @@ filename = "rightclickharvest-forge-4.6.1+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "539bfd7e456eec310707ca577e029fb9ace626c7"
+hash-format = "sha256"
+hash = "e7ae955174869497a7aa855cf859aba6f37abbb2a93b53e9e05935cf7709cc0a"
 mode = "metadata:curseforge"
 
 [update]

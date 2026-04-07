@@ -3,8 +3,8 @@ filename = "sword_soaring-20.14.2.7-mc1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7fe8f3bab6e40662cf16bac600802b4fdaa4ac55"
+hash-format = "sha256"
+hash = "d6f3f97b12e985de9a76a0a2010ce7497181d6eaef039396335ece07127a1250"
 mode = "metadata:curseforge"
 
 [update]

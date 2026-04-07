@@ -3,8 +3,8 @@ filename = "jupiter-2.3.7-1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a2d05f0e70ac59ea44f44642f94c0f99f4e80417"
+hash-format = "sha256"
+hash = "1c2442a90a0228d76518bece4484241e3d2c79e50eb4435afe5e7fc0fbcaac3d"
 mode = "metadata:curseforge"
 
 [update]

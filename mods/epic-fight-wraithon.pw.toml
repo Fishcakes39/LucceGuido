@@ -3,8 +3,8 @@ filename = "wraithon-forge1.20.1-1.1.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "61d4ff5daff4c82ff17463bd1191fad298d23c00"
+hash-format = "sha256"
+hash = "f059eda3cf27634323a1571bfb219ea8df2537ba6a199ecbf4dce26105ebebe0"
 mode = "metadata:curseforge"
 
 [update]

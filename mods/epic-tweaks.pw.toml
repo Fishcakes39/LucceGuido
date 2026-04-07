@@ -3,8 +3,8 @@ filename = "epictweaks-forge-1.20.1-1.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d973d831a541719950eb0d391c752ae06a18fd11"
+hash-format = "sha256"
+hash = "cea73bc3894a0c0dbeb9e3ed77ca2b2c4432842c3da59570dbfd1208e12cb8db"
 mode = "metadata:curseforge"
 
 [update]

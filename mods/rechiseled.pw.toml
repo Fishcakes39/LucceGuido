@@ -3,8 +3,8 @@ filename = "rechiseled-1.2.4-forge-mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "75e7e428ba93fb0fe72ebe15ec5f14b7d95e1663"
+hash-format = "sha256"
+hash = "e27f19cac5c6a1946d71bffdd5ac88a32f63de209dcba9619069a3c1ff0dd079"
 mode = "metadata:curseforge"
 
 [update]

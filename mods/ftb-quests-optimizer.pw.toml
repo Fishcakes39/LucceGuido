@@ -3,8 +3,8 @@ filename = "FTBQuestsOptimizer-forge-2.0.5-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "18458645cbc3436142332eeab910e679f13a76b9"
+hash-format = "sha256"
+hash = "64e446ffd05d4a05a0855ff7165c1cf5ced96845073909c48cff116db6aaa664"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "CreateLazyTick-2.4.7-6.0.x-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3ae2033f73a6a9461862fd29fa626e988cdb6dc7"
+hash-format = "sha256"
+hash = "925854c4771ee3307e4b6e5872b7ef2d11a8e5c17b279c50dfae2bcbc3bf48ff"
 mode = "metadata:curseforge"
 
 [update]

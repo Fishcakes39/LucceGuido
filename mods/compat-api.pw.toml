@@ -3,8 +3,8 @@ filename = "compatapi-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d215ca65935fc021b3e2480e7a771ac15cbb959b"
+hash-format = "sha256"
+hash = "aca0dff86a90681bf24958cc601f2b8a02e20ab348e3beb38ea639dedddb7051"
 mode = "metadata:curseforge"
 
 [update]

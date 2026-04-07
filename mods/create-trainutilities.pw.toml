@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kVIxLqso/versions/xTEwzI6m/trainutilities-forge-3.0.3-C6.jar"
-hash-format = "sha512"
-hash = "ac5bf3e307ca169857919bd74817fc0ccad7446e5fb5c8f150891545dd8118780ea1beec9e903e9e75fd5862285378e9b10227267092e8c4a164628534bd1fa7"
+hash-format = "sha256"
+hash = "c4230304ea1a3db6e9d9c683acab8ea445cee44471438305b44769be5bd57e4b"
 
 [update]
 [update.modrinth]

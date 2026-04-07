@@ -3,8 +3,8 @@ filename = "EpicFight-Resurrection-forge1.20.1-0.20.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "418e4329ad4c6a2fa81bdff093b21bded6d64e68"
+hash-format = "sha256"
+hash = "707cf39eb71456f8a4d4b8192fb1c7b340748b06d861b747a8cc686fa6301d88"
 mode = "metadata:curseforge"
 
 [update]

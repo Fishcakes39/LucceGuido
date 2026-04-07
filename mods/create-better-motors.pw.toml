@@ -3,8 +3,8 @@ filename = "create_better_motors-3.1.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ec75386947fb7720ced69fc2d2d4d62c7a6b0f44"
+hash-format = "sha256"
+hash = "1bebd525faf966c1d77e0f73b1521aca1fd73001abdbe3eb7566aab44b1911ca"
 mode = "metadata:curseforge"
 
 [update]

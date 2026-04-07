@@ -3,8 +3,8 @@ filename = "super_warden-20.13.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "17eb8c043e7bcb0c84804d226ff7ff8a711299e6"
+hash-format = "sha256"
+hash = "d6a5ca943ce726e5260132622c5c865fceb0c68b25b9ab1f01b130ffae1990b9"
 mode = "metadata:curseforge"
 
 [update]

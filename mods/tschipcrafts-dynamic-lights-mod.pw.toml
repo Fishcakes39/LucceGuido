@@ -3,8 +3,8 @@ filename = "dynamiclights-v1.9-mc1.17-1.21.9-mod.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "422cd454bf4bc662c146a4ca598fbc6b3e870ee8"
+hash-format = "sha256"
+hash = "f02d2bcb995ee5531555995d6625571bc7f3518fa3f5e45bba230d08cd89a608"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "[20.12]EpicFight_Improve1.20.1-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6f7d8574819d113135557c2507baf38a7b147a85"
+hash-format = "sha256"
+hash = "16060ab0b4ff3b56aa81dac4ed9831887b7c704718231c4bfbfd22e4e954a34f"
 mode = "metadata:curseforge"
 
 [update]

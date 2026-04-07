@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9nfaJPtX/versions/cDcVfrkg/irons_patreon_lib-1.20.1-1.0.1.jar"
-hash-format = "sha512"
-hash = "0e66c7282866bf1148c2c985c8c041832446a067918009227fdee07afc49debdd36fb3627da23c03fc464c20d54e8c25ce2d350e3f9bbee652574b65061f3b19"
+hash-format = "sha256"
+hash = "071691469c6b2ec7da6f6df4b22fd7635a6c90c3d9275b8216a9b96dd4708386"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "epicfight-extra-1.1.4-mc1.20.1-forge-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4814c9b2b5c9abfb7c369d36bd6f8ee619b45968"
+hash-format = "sha256"
+hash = "7ae17f7d254259f80e024dc4a557cbda4102963835f843f5f45483ac2afb373b"
 mode = "metadata:curseforge"
 
 [update]

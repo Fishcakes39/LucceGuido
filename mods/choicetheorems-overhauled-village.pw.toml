@@ -3,8 +3,8 @@ filename = "[forge]ctov-3.4.14.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8fa73fd4c5ae58636e159e54321651adf555ac44"
+hash-format = "sha256"
+hash = "c4b0326efa655b180cc2b9d87994ca639ee4415debbf45788f665e9f4f864d3c"
 mode = "metadata:curseforge"
 
 [update]

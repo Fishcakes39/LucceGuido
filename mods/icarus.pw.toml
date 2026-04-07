@@ -3,8 +3,8 @@ filename = "Icarus-Forge-2.13.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e4e8084f4e21e80b1a7db8e930a6204d6bcdf8e9"
+hash-format = "sha256"
+hash = "ab4239e824290f2ba7e5e90faaa0a7c0276c09cd9182593158118c5455e66084"
 mode = "metadata:curseforge"
 
 [update]

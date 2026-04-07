@@ -3,8 +3,8 @@ filename = "projectsavethepets-4.0.1-alpha+2023.7fa0c6d61f.forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fa1b7ea0a6fe62aa6fd1f1ac8b170967fa99ecfc"
+hash-format = "sha256"
+hash = "80fc01f3e29a7d63b2eec15421b3c4d82e4609f6e08a61ee59ce9a11e3e4dc70"
 mode = "metadata:curseforge"
 
 [update]

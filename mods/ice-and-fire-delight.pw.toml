@@ -3,8 +3,8 @@ filename = "ice_and_fire_delight-forge-1.20.1-0.2.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5f118623467cdc09c554e280c9a5449397992926"
+hash-format = "sha256"
+hash = "29a13d459b907a57ecaebeffef6b1b1fa8a0386e30e8420222c5699d3ec809f8"
 mode = "metadata:curseforge"
 
 [update]
