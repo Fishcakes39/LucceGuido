@@ -1257,6 +1257,11 @@ hash = "73ff507740e931554af5b918a3a2e7c3e929b3b125e6bab660d9c30a11dec90f"
 metafile = true
 
 [[files]]
+file = "mods/woc-remastered.pw.toml"
+hash = "48a9aa660b32b6c7d70be39308019518401b9069450091e3af24572dd7412acf"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "19906fed2d8072a757cd46f80f414f22c3413215359f3dc5e877667b44f2a435"
 metafile = true
