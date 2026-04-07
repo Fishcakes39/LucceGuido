@@ -857,6 +857,11 @@ hash = "61e26805b807666f611bdeb373807e61e1883b662c003317216622baa935c846"
 metafile = true
 
 [[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "087ebd40b3592756120245e4cb646d916c22e09a5d32ca2c908e7d514d5b414b"
+metafile = true
+
+[[files]]
 file = "mods/lazy-utilities.pw.toml"
 hash = "450ee978e47f88d587976e8b860de4ece45355f8c13c5818f9cf7732050afcbd"
 metafile = true
@@ -969,11 +974,6 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "784ba34b2dd4dbead547a154c6d4584be5b8250f7db0547be299b912b53f0542"
-metafile = true
-
-[[files]]
-file = "mods/p1neros-epic-x-cataclysm.pw.toml"
-hash = "ea85391ef1d84a049a4edfc927a7290508a34115a2fee94cb511ba5cfcf82891"
 metafile = true
 
 [[files]]
@@ -1254,11 +1254,6 @@ metafile = true
 [[files]]
 file = "mods/weapons-of-traveloptics-imbued-the-spells.pw.toml"
 hash = "73ff507740e931554af5b918a3a2e7c3e929b3b125e6bab660d9c30a11dec90f"
-metafile = true
-
-[[files]]
-file = "mods/woc-render-arts-extra-for-weapons-of-cataclysm.pw.toml"
-hash = "2c954ffe0c62647ad9fd5a40654ac3c1187f4f8d1e2abb34c577d1e034599221"
 metafile = true
 
 [[files]]
