@@ -1,0 +1,13 @@
+name = "EpicFight-Extra"
+filename = "epicfight-extra-1.1.4-mc1.20.1-forge-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4814c9b2b5c9abfb7c369d36bd6f8ee619b45968"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7739310
+project-id = 1434276
