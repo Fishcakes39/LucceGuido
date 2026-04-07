@@ -39,12 +39,12 @@ metafile = true
 
 [[files]]
 file = "mods/alexs-mobs-naturalist-compat.pw.toml"
-hash = "30097ae1bbf987085f9011387e0a2c16f16aba18904922eec79137c36239e652"
+hash = "4582e0baac124b6ed5fa7117667b4e96bc9c1543763fa0235526bce6fcdc5181"
 metafile = true
 
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
-hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
+hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
 metafile = true
 
 [[files]]
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -148,8 +148,13 @@ hash = "da069e723737ae49203f7572eb774be0fd21f5f083ce7a7ee1bed25916befca8"
 metafile = true
 
 [[files]]
+file = "mods/cataclysm-spellbooks.pw.toml"
+hash = "be94b5cf0875743c1446c59ed30b4d5644b8a75a57fd11a79c6e108198e123a9"
+metafile = true
+
+[[files]]
 file = "mods/cataclysm-tools.pw.toml"
-hash = "e2cc40fe0f56a019e31259c526303cfb593e8f76cd06267c2cf65a5fd37f913b"
+hash = "3f025677be706f1b9657016cf86540d3f257a0d1d299796b71551aaeff3bf0f0"
 metafile = true
 
 [[files]]
@@ -334,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "4aa260fac8c3463bb7d73a0385e51743b5cb24c84ee933795776043c1584e2b9"
+hash = "cd58f8dc6b8757c8d9c64f45289acdb17d0c2ee77735efbadeb1087e78359374"
 metafile = true
 
 [[files]]
@@ -394,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-structures-arise.pw.toml"
-hash = "e05a6aa4391c9c05501ede268d68c0f19871e6062b9d8d2163886d3a529784e5"
+hash = "bd0ff6b20b5b0e74421a5907b5bee1be3449ec2896d07b47aa732e810a8b6428"
 metafile = true
 
 [[files]]
@@ -409,17 +414,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-trainutilities.pw.toml"
-hash = "d09fec4d6dbe9cc7f91aa1252818f0b63b8ffb1d64adc743089a8b71e552b6f1"
+hash = "90bcfbc5decc8722768d23c6fcd32ce97cfb59f5d12e9e84bef3b768ec7236a5"
 metafile = true
 
 [[files]]
 file = "mods/create-wizardry.pw.toml"
-hash = "62ee54fcbecf30791a5e255e9b894f0918abb2390d65abd77f185e1830d2529a"
+hash = "39bb49bbc9d9dae23c1d5313b52b9faeb36dcc0e08bfb56b2d109d5fb32a20eb"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
+hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
 metafile = true
 
 [[files]]
@@ -443,6 +448,11 @@ hash = "ba80cc37957ed8c7f6766ea09fa2c0d4364e22d977a3d79cf1d95b0cec63e04d"
 metafile = true
 
 [[files]]
+file = "mods/ctov-create-structures.pw.toml"
+hash = "d0114dcd9e7b204c1d2438b902faa1561763d8bd5b3130080895a16e106f06af"
+metafile = true
+
+[[files]]
 file = "mods/ctrl-q.pw.toml"
 hash = "88d692c572f45f10db6cae6691482d9d14c307978929234476e944cce59da774"
 metafile = true
@@ -459,12 +469,12 @@ metafile = true
 
 [[files]]
 file = "mods/deeper-and-darker-spellbooks.pw.toml"
-hash = "d780946509364e2a77d1ae72a8cb26ec0e4b98c07c357d2b769c725553eb2285"
+hash = "921a3c3c162ad14818835faf06f1bc34602bafe41a769754b740d56224dec82c"
 metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "e50740a50bdeef70e78fc991fbc8eee9dbb4bacd11f5e7cbf10f4c46cb5fd0aa"
+hash = "eb60f70cc84efa111a51c35311a44ae352b3b9c98ec7ba4e64595ae627e33006"
 metafile = true
 
 [[files]]
@@ -504,7 +514,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5934060aed168eb17658f596971f92f8ebf89f8f5e750a479277ca6801631fc6"
+hash = "36a828ae63ac3773de72f0a3a5d334585638c9db2cd43706b7304f094b05e0f3"
+metafile = true
+
+[[files]]
+file = "mods/epic-fight-avalon.pw.toml"
+hash = "a34592166c3b0f664124f29491b5a8bff10e7b7933b39c26b43973464ff95232"
 metafile = true
 
 [[files]]
@@ -714,7 +729,7 @@ metafile = true
 
 [[files]]
 file = "mods/ice-and-fire-curios-and-trinkets.pw.toml"
-hash = "f7fc294ff0c5e9d70dba1eb1ee03fa70ba37bbc2f2ab7cec71c613c8e1696cdb"
+hash = "f7951fea65117004f2a3f6fa45042f282b4a852061d80e12220341aa0bc13911"
 metafile = true
 
 [[files]]
@@ -784,7 +799,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "ea1ae074310c4d3a65cb100da2b156de6722d5f44e74a90fd5530cf66ca8e228"
+hash = "ade9cebd95ad5fa5dd06cb6c3f860bbcb8917b4417b4e66fb3aa62ccc677983f"
 metafile = true
 
 [[files]]
@@ -830,6 +845,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
+metafile = true
+
+[[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "ee167727c9fba42e5b01eee375b52016fcc908ad5cc4949f532bd94413d83a84"
 metafile = true
 
 [[files]]
@@ -924,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturalist.pw.toml"
-hash = "58835f3c0296ee974a0aa2f20a4929a2308383b272e4a61ac268ef7967d92583"
+hash = "6039fa77bfd0871c009092508bbaaed5f25947af425943fe3a2c8e6b32cd3102"
 metafile = true
 
 [[files]]
@@ -960,21 +980,6 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "f2dac6ca0291f11a8f544bf38d8417fedcd25682dcc1fda2c4d6d3c9bc5f9e42"
-metafile = true
-
-[[files]]
-file = "mods/patched_cataclysm_spellbooks.pw.toml"
-hash = "be70f95f94eef7cf56459c40922329e9da2ed48ca68175e212d424b240e771a6"
-metafile = true
-
-[[files]]
-file = "mods/patched_epic_fight_avalon.pw.toml"
-hash = "38c24a2a7e763239d4ca0e34ae89fe0109a364fe212f78cd6062d94471f91d6b"
-metafile = true
-
-[[files]]
-file = "mods/patched_traveloptics.pw.toml"
-hash = "f27d28c74f5a96ad3b5c12cfb0272cdba104ca19a6ba8033736abd387f56e238"
 metafile = true
 
 [[files]]
@@ -1094,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "4c1d37d3aecc6d67ce6c6a97d859345cdaefcf619a057069b0a8635f2ad551ac"
+hash = "874a064efc37398f5818a38666ea31263bd65ed0478b519b819f7a361bd0893e"
 metafile = true
 
 [[files]]
@@ -1104,12 +1109,12 @@ metafile = true
 
 [[files]]
 file = "mods/simply-swords.pw.toml"
-hash = "60fffd9990be454a9dffb87a2804f654e6deb21b2ee63924ef4a84d443612352"
+hash = "e7b4f5d39d49d95fc3b11d7e39b29dc7206ef38274200f745912aae332d496e7"
 metafile = true
 
 [[files]]
 file = "mods/simplycataclysm.pw.toml"
-hash = "601752cb29e9c140e65f7157709ec18b8e6c03673d84398194eae857d82a5771"
+hash = "fa8f8d1cc922289ae6524bfdd8465264b5ed98bb998cd9aefeeeb7ad1e013864"
 metafile = true
 
 [[files]]
@@ -1195,6 +1200,11 @@ metafile = true
 [[files]]
 file = "mods/the-lost-castle.pw.toml"
 hash = "706c7143eeba0cee6ca9f099dc8473f6ab428c499a370b34bb5278f871e1877b"
+metafile = true
+
+[[files]]
+file = "mods/traveloptics.pw.toml"
+hash = "c885deaeedbd1c00dfac1b49d70515f1785959b237115866aa7964df42e84adc"
 metafile = true
 
 [[files]]
@@ -1290,9 +1300,4 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "aedb648ee15bdb7bb3af23cfa4ad565c0fe531f62e89406566bec90659be9a42"
-metafile = true
-
-[[files]]
-file = "resourcepacks/ctov-create-structures.pw.toml"
-hash = "c716bea12114430e0efb5085696d6d6a7f9210ac1183295ce82581d90d0be8e1"
 metafile = true
