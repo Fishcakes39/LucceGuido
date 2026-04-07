@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "custom_jars/WOC-Remastered-1.3.0-forge-1.20.1-broad-patched-v6.jar"
+hash = "073c8cb2d203afdde2c0919e5b6dd50290c67a1f3455d4ecf9a8cfc95daecb9a"
+
+[[files]]
 file = "custom_jars/patched_cataclysm_spellbooks.jar"
 hash = "2d6692d783f40399bc97361aecd231ba6f50cf410e496cf44b1fa5339baa9706"
 
@@ -853,11 +857,6 @@ hash = "61e26805b807666f611bdeb373807e61e1883b662c003317216622baa935c846"
 metafile = true
 
 [[files]]
-file = "mods/l_enders-cataclysm.pw.toml"
-hash = "087ebd40b3592756120245e4cb646d916c22e09a5d32ca2c908e7d514d5b414b"
-metafile = true
-
-[[files]]
 file = "mods/lazy-utilities.pw.toml"
 hash = "450ee978e47f88d587976e8b860de4ece45355f8c13c5818f9cf7732050afcbd"
 metafile = true
@@ -1259,7 +1258,7 @@ metafile = true
 
 [[files]]
 file = "mods/woc-render-arts-extra-for-weapons-of-cataclysm.pw.toml"
-hash = "f51aa5c624079e2118c1afd8caa9985adf5ec6a45aea29aaa451f666254faf51"
+hash = "2c954ffe0c62647ad9fd5a40654ac3c1187f4f8d1e2abb34c577d1e034599221"
 metafile = true
 
 [[files]]
@@ -1306,3 +1305,7 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "c5a8c1e71082b0f5cc03cd3d6044090434f858f33f5e16664217cd53c30f57fb"
 metafile = true
+
+[[files]]
+file = "resourcepacks/EFM_Traveloptics-armors-patch(v1.3).zip"
+hash = "9a0ba12b8888e552367828c30c841d953de868f2bcba76e80f691d0272e21a45"
