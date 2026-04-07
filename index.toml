@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "custom_jars/WOC-Remastered-1.3.0-forge-1.20.1-broad-patched-v6.jar"
-hash = "073c8cb2d203afdde2c0919e5b6dd50290c67a1f3455d4ecf9a8cfc95daecb9a"
-
-[[files]]
 file = "custom_jars/patched_cataclysm_spellbooks.jar"
 hash = "2d6692d783f40399bc97361aecd231ba6f50cf410e496cf44b1fa5339baa9706"
 
@@ -15,6 +11,10 @@ hash = "be51c0094a98ffcddb2dd5fa8954a350d5ace0b8563759dbed245bd5cc0a0bff"
 [[files]]
 file = "custom_jars/patched_traveloptics.jar"
 hash = "a5382e428a4fe8670f4e80ecf77a9f56046b0b008799f2566b18f49719911e16"
+
+[[files]]
+file = "custom_jars/patched_woc_remastered.jar"
+hash = "073c8cb2d203afdde2c0919e5b6dd50290c67a1f3455d4ecf9a8cfc95daecb9a"
 
 [[files]]
 file = "mods/aaa-particles.pw.toml"
