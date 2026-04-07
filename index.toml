@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/caelus.pw.toml"
-hash = "b8d2906d7dba618116ca5ad4ea8a38e9b222a0125100b025b4ef74bdf0359d3d"
+hash = "66b972007e95ec0e3a650dc923af15d5d5ed4bfcbcc632b13034ad6e311b825a"
 metafile = true
 
 [[files]]
