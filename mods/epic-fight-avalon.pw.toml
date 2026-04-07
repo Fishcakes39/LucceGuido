@@ -1,9 +1,8 @@
-name = "Patched Epic Fight Avalon"
-filename = "patched_epic_fight_avalon.jar"
+name = "epic_fight_avalon"
+filename = "patched_epic_fight_avalon.jar.jar"
 side = "both"
 
 [download]
 url = "https://github.com/Fishcakes39/LucceGuido/raw/refs/heads/main/custom_jars/patched_epic_fight_avalon.jar.jar"
-
 hash-format = "sha256"
 hash = "be51c0094a98ffcddb2dd5fa8954a350d5ace0b8563759dbed245bd5cc0a0bff"

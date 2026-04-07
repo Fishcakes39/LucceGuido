@@ -3,11 +3,11 @@ filename = "cataclysm_tools-2.0.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9459f93c1ced898690086ef0bc34662ccfcf4dd9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/7apv0bAM/versions/D6Nu8LcF/cataclysm_tools-2.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "69a15b785b7d506e1dd34b3f12fc725f950cbe7357901d434370154b938fa7d2def25cc7444419aac496c13b261de2185ffec134a60d7e757e90337613c9f98d"
 
 [update]
-[update.curseforge]
-file-id = 6709292
-project-id = 1037520
+[update.modrinth]
+mod-id = "7apv0bAM"
+version = "D6Nu8LcF"
