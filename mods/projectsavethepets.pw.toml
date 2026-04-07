@@ -1,6 +1,6 @@
 name = "Project: Save the Pets!"
 filename = "projectsavethepets-4.0.1-alpha+2023.7fa0c6d61f.forge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha256"

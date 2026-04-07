@@ -589,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/epicfightcurioscompat.pw.toml"
-hash = "cc30d53c010d1f8ca4791fd3fa22311fe00b9e78f8ee9bbbfb6e664b1a587863"
+hash = "e874beb2eac66888897e48b9f244e3cf4d42dccc6aa75586681af00c2f865328"
 metafile = true
 
 [[files]]
@@ -899,7 +899,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "044fd54233ff2c5470e6d15531095b847df816091d6719a4d899d138a2f92810"
+hash = "c8542beb9d1f0e703eee8c0056c450ab392f9cabea56e295a360a0f8ba639bb8"
 metafile = true
 
 [[files]]
@@ -1034,7 +1034,7 @@ metafile = true
 
 [[files]]
 file = "mods/projectsavethepets.pw.toml"
-hash = "4ef82de5ca4ddb168db8c5e280470f0bd3314416d9cfb730fedec29d638f570a"
+hash = "bd4ca112ceddb957fd1bececafe0e9ebfac41a5337289f63b65b455d18334fda"
 metafile = true
 
 [[files]]
