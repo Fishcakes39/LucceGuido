@@ -1,13 +1,13 @@
 name = "Sophisticated Storage Create Integration"
-filename = "sophisticatedstoragecreateintegration-1.20.1-0.1.3.16.jar"
+filename = "sophisticatedstoragecreateintegration-1.20.1-0.1.16.97.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f14825733d17aa8df993198b13a0eee1ceea5397"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/MJ0hdevs/versions/nQE6RPbM/sophisticatedstoragecreateintegration-1.20.1-0.1.16.97.jar"
+hash-format = "sha512"
+hash = "1e6a49b9040fa689bb73a32f45bc5afb64592980ab23722e1a76cf993119c4710a6d5dc2b97b847574379a591a64dce4016c374799da7c79e07ca978f7b5219b"
 
 [update]
-[update.curseforge]
-file-id = 6371086
-project-id = 1226755
+[update.modrinth]
+mod-id = "MJ0hdevs"
+version = "nQE6RPbM"
