@@ -922,13 +922,13 @@ hash = "2ed252a28160dad7fbeac1c60787c9b195fa20513243f36055f263ebbff3a6f0"
 metafile = true
 
 [[files]]
-file = "mods/merlins-epic-boss-cataclysm.pw.toml"
-hash = "6266d8550b52f94297493f60cd79ba78e0f963c06de2bc5e2434318584628638"
+file = "mods/midnightlib.pw.toml"
+hash = "fac8417ba7deba156d5f53d116dc918fa1b12d176066d0db5841a1623d8278d9"
 metafile = true
 
 [[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "fac8417ba7deba156d5f53d116dc918fa1b12d176066d0db5841a1623d8278d9"
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "cb6a545e5739fc0e5df919fd60d729cb20634c9febd29b133eca4f172d90aa97"
 metafile = true
 
 [[files]]
@@ -949,6 +949,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "eddeedbefca657b1e0c840a92eccaf748ee9745331703bf15d779941ed897455"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "0b71da608af749f52d127e6fc64aee915df87163b9d13f2b86cf7eaa80ab4c8f"
 metafile = true
 
 [[files]]
