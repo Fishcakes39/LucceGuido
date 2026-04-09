@@ -9,6 +9,10 @@ file = "custom_jars/patched_epic_fight_avalon.jar.jar"
 hash = "be51c0094a98ffcddb2dd5fa8954a350d5ace0b8563759dbed245bd5cc0a0bff"
 
 [[files]]
+file = "custom_jars/patched_traveloptics_FIXED.jar"
+hash = "4ac3654fa1d78c26574af4da43d93c8871c23e33c4fa100936db5a875e13d367"
+
+[[files]]
 file = "custom_jars/patched_woc_remastered.jar"
 hash = "073c8cb2d203afdde2c0919e5b6dd50290c67a1f3455d4ecf9a8cfc95daecb9a"
 
@@ -1200,6 +1204,11 @@ metafile = true
 [[files]]
 file = "mods/the-lost-castle.pw.toml"
 hash = "c8db506f219d2abb5dbf8090cd5dd793a9a190f83bb82f721488765bcd17b8ef"
+metafile = true
+
+[[files]]
+file = "mods/traveloptics.pw.toml"
+hash = "dfd1eab51f899df34fc588e53b4f7f3a52b4cf6ce9161b979022907318309787"
 metafile = true
 
 [[files]]
