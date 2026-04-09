@@ -1,8 +1,8 @@
 name = "traveloptics"
-filename = "patched_traveloptics.jar"
+filename = "patched_traveloptics_v2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Fishcakes39/LucceGuido/blob/main/custom_jars/patched_traveloptics.jar"
+url = "https://github.com/Fishcakes39/LucceGuido/blob/main/custom_jars/patched_traveloptics_v2.jar"
 hash-format = "sha256"
-hash = "08a5557234ed41d90ff6d2a972b66caa5100a3047b0df9ceb9ecf4c68c22f720"
+hash = "4ac3654fa1d78c26574af4da43d93c8871c23e33c4fa100936db5a875e13d367"
