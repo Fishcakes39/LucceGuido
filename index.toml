@@ -9,6 +9,10 @@ file = "custom_jars/patched_epic_fight_avalon.jar.jar"
 hash = "be51c0094a98ffcddb2dd5fa8954a350d5ace0b8563759dbed245bd5cc0a0bff"
 
 [[files]]
+file = "custom_jars/patched_traveloptics_v2.jar"
+hash = "4ac3654fa1d78c26574af4da43d93c8871c23e33c4fa100936db5a875e13d367"
+
+[[files]]
 file = "custom_jars/patched_woc_remastered.jar"
 hash = "073c8cb2d203afdde2c0919e5b6dd50290c67a1f3455d4ecf9a8cfc95daecb9a"
 
@@ -1204,7 +1208,7 @@ metafile = true
 
 [[files]]
 file = "mods/traveloptics-v2.pw.toml"
-hash = "f14f80f8b0c7a5b0be0cea0b09a3e6e137265a1e5f3bab3d1b3c42363a05947b"
+hash = "f4c3ded8d79b26b0a56058aa1e7f8362416cbf2e5a72a0dc76a966009d35fcc8"
 metafile = true
 
 [[files]]
