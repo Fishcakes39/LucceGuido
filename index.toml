@@ -1208,7 +1208,7 @@ metafile = true
 
 [[files]]
 file = "mods/traveloptics.pw.toml"
-hash = "c885deaeedbd1c00dfac1b49d70515f1785959b237115866aa7964df42e84adc"
+hash = "8f8ea8323f32d10766f7cc57014761f1eeb179916f5f09fca2c506161ffd021b"
 metafile = true
 
 [[files]]
