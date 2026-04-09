@@ -152,6 +152,11 @@ hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
 
 [[files]]
+file = "mods/cataclysm-spellbooks.pw.toml"
+hash = "4337e269baba339bf138956ad1c3c2cc4a8c10169b9858fb1593f1d585509044"
+metafile = true
+
+[[files]]
 file = "mods/cataclysm-tools.pw.toml"
 hash = "6abc4117c63e02c7bfcd4b0dd23debaea53fc49b0151d0bd046226dbb27b59a8"
 metafile = true
@@ -1199,6 +1204,11 @@ metafile = true
 [[files]]
 file = "mods/the-lost-castle.pw.toml"
 hash = "c8db506f219d2abb5dbf8090cd5dd793a9a190f83bb82f721488765bcd17b8ef"
+metafile = true
+
+[[files]]
+file = "mods/traveloptics.pw.toml"
+hash = "7e92fd63a3d907fed2c3fcbaafb52990bd99f939d844ad711665a575fe99d53d"
 metafile = true
 
 [[files]]

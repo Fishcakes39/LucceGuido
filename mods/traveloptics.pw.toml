@@ -1,0 +1,8 @@
+name = "traveloptics"
+filename = "Traveloptics_UNIVERSAL.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Fishcakes39/LucceGuido/raw/refs/heads/main/custom_jars/Traveloptics_UNIVERSAL.jar"
+hash-format = "sha256"
+hash = "b19d71278602c4572f7377510161cfbd8eac2eb4a2cb70a1b43a3b7c9a537785"
