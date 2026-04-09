@@ -5,6 +5,14 @@ file = "custom_jars/patched_epic_fight_avalon.jar.jar"
 hash = "be51c0094a98ffcddb2dd5fa8954a350d5ace0b8563759dbed245bd5cc0a0bff"
 
 [[files]]
+file = "custom_jars/patched_spellbooks.jar"
+hash = "508451e4dd446698a8a7dcc46dbb7eb235b2d8ee32358468426dce7f9e20e7d8"
+
+[[files]]
+file = "custom_jars/patched_traveloptics_FIXED.jar"
+hash = "4ac3654fa1d78c26574af4da43d93c8871c23e33c4fa100936db5a875e13d367"
+
+[[files]]
 file = "custom_jars/patched_woc_remastered.jar"
 hash = "073c8cb2d203afdde2c0919e5b6dd50290c67a1f3455d4ecf9a8cfc95daecb9a"
 
@@ -145,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/cataclysm-spellbooks.pw.toml"
-hash = "4337e269baba339bf138956ad1c3c2cc4a8c10169b9858fb1593f1d585509044"
+hash = "3f16ce2d4033ccaf386780eb28410d4200bbe43407a209f46a92a7993c553122"
 metafile = true
 
 [[files]]
@@ -1200,7 +1208,7 @@ metafile = true
 
 [[files]]
 file = "mods/traveloptics.pw.toml"
-hash = "7e92fd63a3d907fed2c3fcbaafb52990bd99f939d844ad711665a575fe99d53d"
+hash = "42b7c47252360f8eb3a2c26597f8f99b6558d2143e37ec2066044dee59648260"
 metafile = true
 
 [[files]]
