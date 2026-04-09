@@ -10,7 +10,7 @@ hash = "be51c0094a98ffcddb2dd5fa8954a350d5ace0b8563759dbed245bd5cc0a0bff"
 
 [[files]]
 file = "custom_jars/patched_traveloptics.jar"
-hash = "a5382e428a4fe8670f4e80ecf77a9f56046b0b008799f2566b18f49719911e16"
+hash = "4ac3654fa1d78c26574af4da43d93c8871c23e33c4fa100936db5a875e13d367"
 
 [[files]]
 file = "custom_jars/patched_woc_remastered.jar"
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/cataclysm-x-yungs.pw.toml"
-hash = "d32ed32e6b266b821f479d07c9a467c1b07145e0739f4be8a19abb2af819859e"
+hash = "c67156797b7e0dace959382b1d21f0431e0d1482f3d5d1d0e5733089a87f093b"
 metafile = true
 
 [[files]]
@@ -854,11 +854,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "61e26805b807666f611bdeb373807e61e1883b662c003317216622baa935c846"
-metafile = true
-
-[[files]]
-file = "mods/l_enders-cataclysm.pw.toml"
-hash = "087ebd40b3592756120245e4cb646d916c22e09a5d32ca2c908e7d514d5b414b"
 metafile = true
 
 [[files]]
