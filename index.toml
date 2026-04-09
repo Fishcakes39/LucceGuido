@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "custom_jars/Spellbooks_UNIVERSAL.jar"
-hash = "77f90cbf0d186123f81b03df038c0f6dd48a7af7e8b5325b7b63f07420a0c420"
-
-[[files]]
-file = "custom_jars/Traveloptics_UNIVERSAL.jar"
-hash = "b19d71278602c4572f7377510161cfbd8eac2eb4a2cb70a1b43a3b7c9a537785"
-
-[[files]]
 file = "custom_jars/patched_epic_fight_avalon.jar.jar"
 hash = "be51c0094a98ffcddb2dd5fa8954a350d5ace0b8563759dbed245bd5cc0a0bff"
 
@@ -868,7 +860,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "c10b699eb795edad02f9485a0af6246004e755ca5e44020f91268dc67f691724"
+hash = "9b3cd1825ce6c4ff7271ae8866840937f759b22eea515decb821c426b05c800a"
 metafile = true
 
 [[files]]
