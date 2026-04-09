@@ -1,8 +1,0 @@
-name = "cataclysm_spellbooks"
-filename = "patched_cataclysm_spellbooks.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Fishcakes39/LucceGuido/raw/refs/heads/main/custom_jars/patched_cataclysm_spellbooks.jar"
-hash-format = "sha256"
-hash = "2d6692d783f40399bc97361aecd231ba6f50cf410e496cf44b1fa5339baa9706"
