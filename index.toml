@@ -13,10 +13,6 @@ file = "custom_jars/patched_traveloptics_FIXED.jar"
 hash = "4ac3654fa1d78c26574af4da43d93c8871c23e33c4fa100936db5a875e13d367"
 
 [[files]]
-file = "custom_jars/patched_woc_remastered.jar"
-hash = "073c8cb2d203afdde2c0919e5b6dd50290c67a1f3455d4ecf9a8cfc95daecb9a"
-
-[[files]]
 file = "mods/aaa-particles.pw.toml"
 hash = "71100a7fdb32e1f7b1437ba12465734d8810bcf1c62b6fd896dc868c2b9a0054"
 metafile = true
@@ -93,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a7fa7c681c6bbc5d614b527c7f234153af5a54686013282ae918f8c1e41dfc23"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
@@ -1207,6 +1203,11 @@ hash = "c8db506f219d2abb5dbf8090cd5dd793a9a190f83bb82f721488765bcd17b8ef"
 metafile = true
 
 [[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "51e82d9320effbd610ccfe4571c048c7d0f9c98362b9884faabfaa6f63aa9737"
+metafile = true
+
+[[files]]
 file = "mods/traveloptics.pw.toml"
 hash = "42b7c47252360f8eb3a2c26597f8f99b6558d2143e37ec2066044dee59648260"
 metafile = true
@@ -1243,7 +1244,7 @@ metafile = true
 
 [[files]]
 file = "mods/weapon-leveling.pw.toml"
-hash = "c1e6b738456d229a6879358b5b46b959241fd8b8ec08be6b0ea2bc80c66e1b2d"
+hash = "959749e9d74d4d90b88186e4a66770035a9339d1e2f0a47816a0584913087819"
 metafile = true
 
 [[files]]
@@ -1254,11 +1255,6 @@ metafile = true
 [[files]]
 file = "mods/weapons-of-traveloptics-imbued-the-spells.pw.toml"
 hash = "73ff507740e931554af5b918a3a2e7c3e929b3b125e6bab660d9c30a11dec90f"
-metafile = true
-
-[[files]]
-file = "mods/woc-remastered.pw.toml"
-hash = "48a9aa660b32b6c7d70be39308019518401b9069450091e3af24572dd7412acf"
 metafile = true
 
 [[files]]

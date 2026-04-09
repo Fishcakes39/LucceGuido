@@ -1,13 +1,13 @@
 name = "Lukas' Weapon Leveling"
-filename = "weaponleveling-1.20.1-2.2.2-forge.jar"
+filename = "weaponleveling-1.20.1-3.0.0-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "0fa65571de7bb6478e63275dceb9ddcb1714f4bbd9b13f9904ab7c6c2764c384"
+hash-format = "sha1"
+hash = "8f25135bb4ea9f52eb67ca3f2d0fe0736f3db828"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5473706
+file-id = 7895667
 project-id = 644704
