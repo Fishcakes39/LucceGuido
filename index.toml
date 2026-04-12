@@ -148,6 +148,11 @@ hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
 
 [[files]]
+file = "mods/cataclysm-spellbooks.pw.toml"
+hash = "24d3887a99b7e6166b6f965e719e71b722d2cbaf2d9d8063ac4f4fcb9b5fe69f"
+metafile = true
+
+[[files]]
 file = "mods/cataclysm-tools.pw.toml"
 hash = "6abc4117c63e02c7bfcd4b0dd23debaea53fc49b0151d0bd046226dbb27b59a8"
 metafile = true
