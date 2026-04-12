@@ -6,7 +6,7 @@ hash = "be51c0094a98ffcddb2dd5fa8954a350d5ace0b8563759dbed245bd5cc0a0bff"
 
 [[files]]
 file = "custom_jars/patched_spellbooks.jar"
-hash = "508451e4dd446698a8a7dcc46dbb7eb235b2d8ee32358468426dce7f9e20e7d8"
+hash = "e0d6963b8e57d8406f87a609df790ab68f401b91c8f8ff780d75688cba461db2"
 
 [[files]]
 file = "custom_jars/patched_traveloptics_FIXED.jar"
