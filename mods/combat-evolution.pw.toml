@@ -1,0 +1,13 @@
+name = "Combat Evolution"
+filename = "CombatEvolution-2.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3aed3bc26792ee5dc5330ea7d4e87d5ede51ce93"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7908514
+project-id = 1377795

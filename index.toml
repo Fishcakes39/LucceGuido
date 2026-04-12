@@ -13,10 +13,6 @@ file = "custom_jars/patched_traveloptics_FIXED.jar"
 hash = "4ac3654fa1d78c26574af4da43d93c8871c23e33c4fa100936db5a875e13d367"
 
 [[files]]
-file = "custom_jars/patched_woc_remastered_v2.jar"
-hash = "f614d3c28ad8c07fd5f5d1462f0f14b786b6b6321f551aead0d7c567f26424e7"
-
-[[files]]
 file = "mods/aaa-particles.pw.toml"
 hash = "71100a7fdb32e1f7b1437ba12465734d8810bcf1c62b6fd896dc868c2b9a0054"
 metafile = true
@@ -219,6 +215,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "91d67ab276ef36bb7cd2942df481903a645d0002e4018d67242e89c90abf15ef"
+metafile = true
+
+[[files]]
+file = "mods/combat-evolution.pw.toml"
+hash = "c289f8a5cf80fd941b75ffe38ab04c60d73af67911b6e5cd06798d07eac61f6f"
 metafile = true
 
 [[files]]
@@ -1262,8 +1263,8 @@ hash = "73ff507740e931554af5b918a3a2e7c3e929b3b125e6bab660d9c30a11dec90f"
 metafile = true
 
 [[files]]
-file = "mods/woc-remastered.pw.toml"
-hash = "421f28839a0c6ff2be4f17de9a47ea7969bcbb6d416e17154391a1fe296da514"
+file = "mods/woc-render-arts-extra-for-weapons-of-cataclysm.pw.toml"
+hash = "bb5a57a4e7ee6feb7cf423c8229440d70bb8a76dfa07ff9a5a45a28a36c9891b"
 metafile = true
 
 [[files]]
